@@ -1,0 +1,11 @@
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\bin\Debug\TUT8_question2.exe.config
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\bin\Debug\TUT8_question2.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\bin\Debug\TUT8_question2.pdb
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.csproj.AssemblyReference.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.lbTotal.resources
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.Properties.Resources.resources
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.csproj.GenerateResource.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.csproj.CoreCompileInputs.cache
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.exe
+C:\Users\Keletso\Documents\223021060_Ntseno_TUT8\TUT8_question2\obj\Debug\TUT8_question2.pdb
